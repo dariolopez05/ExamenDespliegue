@@ -1,4 +1,4 @@
-name: CI/CD Pipeline for Examen
+name: CI/CD Pipeline for App
 
 on:
   push:
